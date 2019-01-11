@@ -1,0 +1,4 @@
+rootProject.name = 'sales-processor'
+include 'boot'
+include 'implementation'
+
